@@ -1,3 +1,5 @@
 Hello Git !
 add a line to be reset(modify)
 not add but commit
+add 1
+add 2
