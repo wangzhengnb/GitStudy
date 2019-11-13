@@ -1,1 +1,2 @@
 Hello Git !
+add a line to be reset(modify)
